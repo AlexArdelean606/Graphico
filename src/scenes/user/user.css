@@ -1,0 +1,32 @@
+.wide-uu {
+    margin-top: -25rem;
+    position: absolute;
+    width: 100%;
+    overflow-x: hidden;
+    z-index: -1;
+    object-fit: cover;
+}
+
+.header-uu {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+    object-fit: cover;
+    height: 35vh;
+}
+
+.wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+.usercomment-uu-item:hover {
+    background-color: #1d1d1d;
+    transition: all 0.3s linear;
+}
+
+.usercomment-uu-item-light:hover {
+    background-color: #ebebeb;
+    transition: all 0.3s linear;
+}

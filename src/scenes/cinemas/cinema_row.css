@@ -1,0 +1,10 @@
+.mouse-pointer-cinemas:hover {
+    background-color: #f5f5f51a;
+    transition: 0.5s;
+}
+
+.mouse-pointer-cinemas-nodash:hover {
+    cursor: pointer;
+    background-color: #f5f5f51a;
+    transition: 0.5s;
+}

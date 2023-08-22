@@ -1,0 +1,5 @@
+.mouse-pointer-admins:hover {
+    cursor: default;
+    background-color: #f5f5f51a;
+    transition: 0.5s;
+}

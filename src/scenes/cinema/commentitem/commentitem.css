@@ -1,0 +1,4 @@
+.comment-item:not(:last-child) {
+    border-bottom: 2px solid #8b8b8b;
+    border-radius: 2px;
+}

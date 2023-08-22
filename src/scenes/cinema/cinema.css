@@ -1,0 +1,22 @@
+.wide {
+    margin-top: -38rem;
+    position: absolute;
+    width: 100%;
+    overflow-x: hidden;
+    z-index: -1;
+    object-fit: cover;
+}
+
+.header {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: -1;
+    object-fit: cover;
+    height: 35vh;
+}
+
+.wrapper::-webkit-scrollbar {
+    display: none;
+}
